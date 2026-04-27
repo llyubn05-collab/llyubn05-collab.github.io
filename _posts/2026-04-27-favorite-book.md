@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "내가 좋아하는 책"
-date: 2026-04-27 16:10:00 +0900
+date: 2026-04-27 16:24:00 +0900
 categories: [리뷰]
 tags: [책, 한국문학]
 author: 임유빈
