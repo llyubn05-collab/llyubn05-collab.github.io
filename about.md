@@ -23,7 +23,7 @@ title: "소개"
 ## 자주 방문하는 사이트
 
 학업 관련 공지사항 확인을 위해 자주 들어갑니다.
-[MDN 문서](https://cls.snu.ac.kr/)
+[자유전공학부 홈페이지](https://cls.snu.ac.kr/)
 
 
 <script src="/assets/js/hello.js"></script>
