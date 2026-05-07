@@ -55,9 +55,13 @@ const text1 = "박씨는 이씨에게 시집간 김씨의 외사촌 동생이다
 const text2 = "이상의 「날개」는 1936년 작품이다.";
 const text3 = "banana";
 
-console.log(countChar(text1, "씨"));
-console.log(countChar(text2, "이"));
-console.log(countChar(text3, "a"));
+const count1 = countChar(text1, "씨");
+const count2 = countChar(text2, "이");
+const count3 = countChar(text3, "a");
+
+console.log(`"${text1}"에서 '씨'는 ${count1}번 등장합니다.`);
+console.log(`"${text2}"에서 '이'는 ${count2}번 등장합니다.`);
+console.log(`"${text3}"에서 'a'는 ${count3}번 등장합니다.`);
 
 
 // Q4
