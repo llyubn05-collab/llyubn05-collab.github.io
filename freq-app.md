@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 글자 빈도 분석
-permalink: /freq-app/
+permalink: /freq-app/  
 ---
 
 <form id="freq-form">
