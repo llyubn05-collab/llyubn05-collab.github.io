@@ -9,7 +9,7 @@ themeBtn.addEventListener("click", toggleTheme);
 function toggleTheme() {
     q1box.classList.toggle("dark")
 
-    if (themeBtn.textContent === "다크모드") {
+    if (q1box.classList.contains("dark")) {
         themeBtn.textContent = "라이트모드";
     } else {
         themeBtn.textContent = "다크모드";
