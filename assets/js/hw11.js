@@ -10,9 +10,9 @@ function toggleTheme() {
     q1box.classList.toggle("dark")
 
     if (q1box.classList.contains("dark")) {
-        themeBtn.textContent = "라이트모드";
+        themeBtn.textContent = "라이트 모드";
     } else {
-        themeBtn.textContent = "다크모드";
+        themeBtn.textContent = "다크 모드";
     }
 }
 
