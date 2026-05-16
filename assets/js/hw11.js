@@ -23,7 +23,7 @@ const warn = document.querySelector("#q2-warn");
 
 input.addEventListener("input", (e) => {
     const length = e.target.value.length;
-    count.textContent = `현재 글자 수: ${length}자`;
+    count.textContent = length;
     if (length >= 100) {
         warn.textContent = "100자를 넘었습니다.";
         warn.style.color = "crimson";
