@@ -8,4 +8,3 @@ permalink: /poems-chart/
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/assets/js/poems-chart.js"></script>
 
-// 오타 수정하기
