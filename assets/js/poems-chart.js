@@ -29,3 +29,4 @@ function drawChart(rows) {
         },
     });
 }
+// 이름 잘 쓰기 
