@@ -1,4 +1,4 @@
-fetch("/data/poems.csv")
+fetch("./data/poems.csv")
     .then(response => response.text())
     .then(csv => {
         const data = csv
