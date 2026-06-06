@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "프로젝트"
+permalink: /projects/
 ---
 
 # 프로젝트 목록
