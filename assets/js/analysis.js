@@ -1,7 +1,7 @@
 function getWords(text) {
     return text
         .toLowerCase()
-        .replace(/[.,!?;:'"‘’“”()\[\]_*_-]/g, " ")
+        .replace(/[^a-z\s]/g, " ")
         .split(/\s+/)
         .filter(w => w.length > 0);
 }
