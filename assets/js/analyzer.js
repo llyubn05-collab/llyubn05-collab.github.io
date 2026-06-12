@@ -17,6 +17,6 @@ button.addEventListener("click", () => {
         const top = topN(counts, 20);
 
         if (resultChart) resultChart.destroy();
-        resultChart = drwaChart("#result-chart", top, "rgba(40, 167, 69, 0.6)");
+        resultChart = drawChart("#result-chart", top, "rgba(40, 167, 69, 0.6)");
     });
 });
