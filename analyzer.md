@@ -15,4 +15,4 @@ permalink: /analyzer/
 
 {% include chartjs.html %}
 <script src="/assets/js/analysis.js"></script>
-<script src="/assets/js/compare.js"></script>
+<script src="/assets/js/analyzer.js"></script>
